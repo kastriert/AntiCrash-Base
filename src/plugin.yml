@@ -1,0 +1,7 @@
+name: Atom
+version: 1.0
+author: kastriert
+main: io.kastriert.atom.Atom
+
+commands:
+  atom:
